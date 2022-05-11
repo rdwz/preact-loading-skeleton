@@ -1,4 +1,4 @@
-# peact-loading-skeleton
+# preact-loading-skeleton
 
 This is a Port from react-loading-skeleton.
 All Credit goes to original author. To see Project please go [here](https://github.com/dvtng/react-loading-skeleton)
